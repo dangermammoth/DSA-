@@ -7,6 +7,7 @@ dsa and leetcode problems
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/dangermammoth/DSA-/tree/master/0011-container-with-most-water) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/dangermammoth/DSA-/tree/master/0945-minimum-increment-to-make-array-unique) |
 ## Two Pointers
 |  |
 | ------- |
@@ -15,4 +16,13 @@ dsa and leetcode problems
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/dangermammoth/DSA-/tree/master/0011-container-with-most-water) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/dangermammoth/DSA-/tree/master/0945-minimum-increment-to-make-array-unique) |
+## Sorting
+|  |
+| ------- |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/dangermammoth/DSA-/tree/master/0945-minimum-increment-to-make-array-unique) |
+## Counting
+|  |
+| ------- |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/dangermammoth/DSA-/tree/master/0945-minimum-increment-to-make-array-unique) |
 <!---LeetCode Topics End-->
