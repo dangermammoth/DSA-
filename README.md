@@ -8,6 +8,7 @@ dsa and leetcode problems
 | ------- |
 | [0011-container-with-most-water](https://github.com/dangermammoth/DSA-/tree/master/0011-container-with-most-water) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/dangermammoth/DSA-/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/dangermammoth/DSA-/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -25,4 +26,25 @@ dsa and leetcode problems
 |  |
 | ------- |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/dangermammoth/DSA-/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/dangermammoth/DSA-/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Hash Table
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/dangermammoth/DSA-/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/dangermammoth/DSA-/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/dangermammoth/DSA-/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/dangermammoth/DSA-/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/dangermammoth/DSA-/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
