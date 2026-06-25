@@ -47,4 +47,12 @@ dsa and leetcode problems
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/dangermammoth/DSA-/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Math
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/dangermammoth/DSA-/tree/master/0060-permutation-sequence) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/dangermammoth/DSA-/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
