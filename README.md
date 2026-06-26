@@ -61,4 +61,8 @@ dsa and leetcode problems
 |  |
 | ------- |
 | [0328-odd-even-linked-list](https://github.com/dangermammoth/DSA-/tree/master/0328-odd-even-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0461-hamming-distance](https://github.com/dangermammoth/DSA-/tree/master/0461-hamming-distance) |
 <!---LeetCode Topics End-->
