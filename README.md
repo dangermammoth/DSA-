@@ -57,4 +57,8 @@ dsa and leetcode problems
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/dangermammoth/DSA-/tree/master/0060-permutation-sequence) |
+## Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/dangermammoth/DSA-/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
