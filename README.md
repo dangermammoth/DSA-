@@ -8,6 +8,7 @@ dsa and leetcode problems
 | ------- |
 | [0011-container-with-most-water](https://github.com/dangermammoth/DSA-/tree/master/0011-container-with-most-water) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/dangermammoth/DSA-/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0713-subarray-product-less-than-k](https://github.com/dangermammoth/DSA-/tree/master/0713-subarray-product-less-than-k) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/dangermammoth/DSA-/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/dangermammoth/DSA-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/dangermammoth/DSA-/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -48,6 +49,7 @@ dsa and leetcode problems
 ## Prefix Sum
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/dangermammoth/DSA-/tree/master/0713-subarray-product-less-than-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/dangermammoth/DSA-/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Math
 |  |
@@ -70,4 +72,12 @@ dsa and leetcode problems
 |  |
 | ------- |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/dangermammoth/DSA-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+## Binary Search
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/dangermammoth/DSA-/tree/master/0713-subarray-product-less-than-k) |
+## Sliding Window
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/dangermammoth/DSA-/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
