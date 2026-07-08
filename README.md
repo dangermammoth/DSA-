@@ -58,6 +58,7 @@ dsa and leetcode problems
 | ------- |
 | [0060-permutation-sequence](https://github.com/dangermammoth/DSA-/tree/master/0060-permutation-sequence) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/dangermammoth/DSA-/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/dangermammoth/DSA-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Recursion
 |  |
 | ------- |
