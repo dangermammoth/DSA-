@@ -102,4 +102,20 @@ dsa and leetcode problems
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/dangermammoth/DSA-/tree/master/1025-divisor-game) |
+## Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/dangermammoth/DSA-/tree/master/0547-number-of-provinces) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/dangermammoth/DSA-/tree/master/0547-number-of-provinces) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/dangermammoth/DSA-/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/dangermammoth/DSA-/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
