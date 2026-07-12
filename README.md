@@ -64,6 +64,7 @@ dsa and leetcode problems
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/dangermammoth/DSA-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1025-divisor-game](https://github.com/dangermammoth/DSA-/tree/master/1025-divisor-game) |
 | [1250-check-if-it-is-a-good-array](https://github.com/dangermammoth/DSA-/tree/master/1250-check-if-it-is-a-good-array) |
+| [1492-the-kth-factor-of-n](https://github.com/dangermammoth/DSA-/tree/master/1492-the-kth-factor-of-n) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/dangermammoth/DSA-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Recursion
 |  |
@@ -93,6 +94,7 @@ dsa and leetcode problems
 |  |
 | ------- |
 | [1250-check-if-it-is-a-good-array](https://github.com/dangermammoth/DSA-/tree/master/1250-check-if-it-is-a-good-array) |
+| [1492-the-kth-factor-of-n](https://github.com/dangermammoth/DSA-/tree/master/1492-the-kth-factor-of-n) |
 ## Dynamic Programming
 |  |
 | ------- |
