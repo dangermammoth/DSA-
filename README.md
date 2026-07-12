@@ -12,6 +12,7 @@ dsa and leetcode problems
 | [0945-minimum-increment-to-make-array-unique](https://github.com/dangermammoth/DSA-/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1250-check-if-it-is-a-good-array](https://github.com/dangermammoth/DSA-/tree/master/1250-check-if-it-is-a-good-array) |
 | [1288-remove-covered-intervals](https://github.com/dangermammoth/DSA-/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/dangermammoth/DSA-/tree/master/1331-rank-transform-of-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/dangermammoth/DSA-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/dangermammoth/DSA-/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Two Pointers
@@ -28,6 +29,7 @@ dsa and leetcode problems
 | ------- |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/dangermammoth/DSA-/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1288-remove-covered-intervals](https://github.com/dangermammoth/DSA-/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/dangermammoth/DSA-/tree/master/1331-rank-transform-of-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -36,6 +38,7 @@ dsa and leetcode problems
 ## Hash Table
 |  |
 | ------- |
+| [1331-rank-transform-of-an-array](https://github.com/dangermammoth/DSA-/tree/master/1331-rank-transform-of-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/dangermammoth/DSA-/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
