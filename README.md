@@ -126,4 +126,8 @@ dsa and leetcode problems
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/dangermammoth/DSA-/tree/master/0547-number-of-provinces) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/dangermammoth/DSA-/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
