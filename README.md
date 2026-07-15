@@ -63,6 +63,7 @@ dsa and leetcode problems
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/dangermammoth/DSA-/tree/master/0060-permutation-sequence) |
+| [0292-nim-game](https://github.com/dangermammoth/DSA-/tree/master/0292-nim-game) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/dangermammoth/DSA-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0633-sum-of-square-numbers](https://github.com/dangermammoth/DSA-/tree/master/0633-sum-of-square-numbers) |
 | [1025-divisor-game](https://github.com/dangermammoth/DSA-/tree/master/1025-divisor-game) |
@@ -112,10 +113,12 @@ dsa and leetcode problems
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/dangermammoth/DSA-/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/dangermammoth/DSA-/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/dangermammoth/DSA-/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/dangermammoth/DSA-/tree/master/1025-divisor-game) |
 ## Depth-First Search
 |  |
