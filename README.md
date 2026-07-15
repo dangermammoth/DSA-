@@ -20,6 +20,7 @@ dsa and leetcode problems
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/dangermammoth/DSA-/tree/master/0011-container-with-most-water) |
+| [0633-sum-of-square-numbers](https://github.com/dangermammoth/DSA-/tree/master/0633-sum-of-square-numbers) |
 ## Greedy
 |  |
 | ------- |
@@ -63,6 +64,7 @@ dsa and leetcode problems
 | ------- |
 | [0060-permutation-sequence](https://github.com/dangermammoth/DSA-/tree/master/0060-permutation-sequence) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/dangermammoth/DSA-/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0633-sum-of-square-numbers](https://github.com/dangermammoth/DSA-/tree/master/0633-sum-of-square-numbers) |
 | [1025-divisor-game](https://github.com/dangermammoth/DSA-/tree/master/1025-divisor-game) |
 | [1250-check-if-it-is-a-good-array](https://github.com/dangermammoth/DSA-/tree/master/1250-check-if-it-is-a-good-array) |
 | [1492-the-kth-factor-of-n](https://github.com/dangermammoth/DSA-/tree/master/1492-the-kth-factor-of-n) |
@@ -90,6 +92,7 @@ dsa and leetcode problems
 ## Binary Search
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/dangermammoth/DSA-/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/dangermammoth/DSA-/tree/master/0713-subarray-product-less-than-k) |
 ## Sliding Window
 |  |
