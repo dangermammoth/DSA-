@@ -8,6 +8,7 @@ dsa and leetcode problems
 | ------- |
 | [0011-container-with-most-water](https://github.com/dangermammoth/DSA-/tree/master/0011-container-with-most-water) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/dangermammoth/DSA-/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0628-maximum-product-of-three-numbers](https://github.com/dangermammoth/DSA-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/dangermammoth/DSA-/tree/master/0713-subarray-product-less-than-k) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/dangermammoth/DSA-/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1250-check-if-it-is-a-good-array](https://github.com/dangermammoth/DSA-/tree/master/1250-check-if-it-is-a-good-array) |
@@ -32,6 +33,7 @@ dsa and leetcode problems
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/dangermammoth/DSA-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/dangermammoth/DSA-/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1288-remove-covered-intervals](https://github.com/dangermammoth/DSA-/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/dangermammoth/DSA-/tree/master/1331-rank-transform-of-an-array) |
@@ -70,6 +72,7 @@ dsa and leetcode problems
 | [0060-permutation-sequence](https://github.com/dangermammoth/DSA-/tree/master/0060-permutation-sequence) |
 | [0292-nim-game](https://github.com/dangermammoth/DSA-/tree/master/0292-nim-game) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/dangermammoth/DSA-/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0628-maximum-product-of-three-numbers](https://github.com/dangermammoth/DSA-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/dangermammoth/DSA-/tree/master/0633-sum-of-square-numbers) |
 | [1025-divisor-game](https://github.com/dangermammoth/DSA-/tree/master/1025-divisor-game) |
 | [1250-check-if-it-is-a-good-array](https://github.com/dangermammoth/DSA-/tree/master/1250-check-if-it-is-a-good-array) |
