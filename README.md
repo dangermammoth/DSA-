@@ -10,6 +10,7 @@ dsa and leetcode problems
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/dangermammoth/DSA-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dangermammoth/DSA-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/dangermammoth/DSA-/tree/master/0713-subarray-product-less-than-k) |
+| [0877-stone-game](https://github.com/dangermammoth/DSA-/tree/master/0877-stone-game) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/dangermammoth/DSA-/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1250-check-if-it-is-a-good-array](https://github.com/dangermammoth/DSA-/tree/master/1250-check-if-it-is-a-good-array) |
 | [1260-shift-2d-grid](https://github.com/dangermammoth/DSA-/tree/master/1260-shift-2d-grid) |
@@ -75,6 +76,7 @@ dsa and leetcode problems
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/dangermammoth/DSA-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dangermammoth/DSA-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/dangermammoth/DSA-/tree/master/0633-sum-of-square-numbers) |
+| [0877-stone-game](https://github.com/dangermammoth/DSA-/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/dangermammoth/DSA-/tree/master/1025-divisor-game) |
 | [1250-check-if-it-is-a-good-array](https://github.com/dangermammoth/DSA-/tree/master/1250-check-if-it-is-a-good-array) |
 | [1492-the-kth-factor-of-n](https://github.com/dangermammoth/DSA-/tree/master/1492-the-kth-factor-of-n) |
@@ -122,6 +124,7 @@ dsa and leetcode problems
 ## Dynamic Programming
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/dangermammoth/DSA-/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/dangermammoth/DSA-/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
@@ -132,6 +135,7 @@ dsa and leetcode problems
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/dangermammoth/DSA-/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/dangermammoth/DSA-/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/dangermammoth/DSA-/tree/master/1025-divisor-game) |
 ## Depth-First Search
 |  |
