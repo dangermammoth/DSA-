@@ -7,6 +7,7 @@ dsa and leetcode problems
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/dangermammoth/DSA-/tree/master/0011-container-with-most-water) |
+| [0200-number-of-islands](https://github.com/dangermammoth/DSA-/tree/master/0200-number-of-islands) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/dangermammoth/DSA-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dangermammoth/DSA-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/dangermammoth/DSA-/tree/master/0713-subarray-product-less-than-k) |
@@ -144,17 +145,20 @@ dsa and leetcode problems
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/dangermammoth/DSA-/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/dangermammoth/DSA-/tree/master/0547-number-of-provinces) |
 | [3310-remove-methods-from-project](https://github.com/dangermammoth/DSA-/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/dangermammoth/DSA-/tree/master/0102-binary-tree-level-order-traversal) |
+| [0200-number-of-islands](https://github.com/dangermammoth/DSA-/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/dangermammoth/DSA-/tree/master/0547-number-of-provinces) |
 | [3310-remove-methods-from-project](https://github.com/dangermammoth/DSA-/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/dangermammoth/DSA-/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/dangermammoth/DSA-/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
@@ -182,6 +186,7 @@ dsa and leetcode problems
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/dangermammoth/DSA-/tree/master/0200-number-of-islands) |
 | [1260-shift-2d-grid](https://github.com/dangermammoth/DSA-/tree/master/1260-shift-2d-grid) |
 ## Counting Sort
 |  |
