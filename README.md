@@ -85,6 +85,7 @@ dsa and leetcode problems
 | [1492-the-kth-factor-of-n](https://github.com/dangermammoth/DSA-/tree/master/1492-the-kth-factor-of-n) |
 | [1922-count-good-numbers](https://github.com/dangermammoth/DSA-/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dangermammoth/DSA-/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/dangermammoth/DSA-/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/dangermammoth/DSA-/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/dangermammoth/DSA-/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/dangermammoth/DSA-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -161,6 +162,7 @@ dsa and leetcode problems
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/dangermammoth/DSA-/tree/master/1291-sequential-digits) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/dangermammoth/DSA-/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Tree
 |  |
 | ------- |
