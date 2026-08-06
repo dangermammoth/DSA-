@@ -145,11 +145,13 @@ dsa and leetcode problems
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/dangermammoth/DSA-/tree/master/0547-number-of-provinces) |
+| [3310-remove-methods-from-project](https://github.com/dangermammoth/DSA-/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/dangermammoth/DSA-/tree/master/0102-binary-tree-level-order-traversal) |
 | [0547-number-of-provinces](https://github.com/dangermammoth/DSA-/tree/master/0547-number-of-provinces) |
+| [3310-remove-methods-from-project](https://github.com/dangermammoth/DSA-/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
@@ -158,6 +160,7 @@ dsa and leetcode problems
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/dangermammoth/DSA-/tree/master/0547-number-of-provinces) |
+| [3310-remove-methods-from-project](https://github.com/dangermammoth/DSA-/tree/master/3310-remove-methods-from-project) |
 ## Enumeration
 |  |
 | ------- |
