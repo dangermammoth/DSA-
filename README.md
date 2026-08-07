@@ -180,6 +180,7 @@ dsa and leetcode problems
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/dangermammoth/DSA-/tree/master/0547-number-of-provinces) |
+| [1791-find-center-of-star-graph](https://github.com/dangermammoth/DSA-/tree/master/1791-find-center-of-star-graph) |
 | [3310-remove-methods-from-project](https://github.com/dangermammoth/DSA-/tree/master/3310-remove-methods-from-project) |
 ## Enumeration
 |  |
