@@ -92,6 +92,7 @@ dsa and leetcode problems
 | [1492-the-kth-factor-of-n](https://github.com/dangermammoth/DSA-/tree/master/1492-the-kth-factor-of-n) |
 | [1922-count-good-numbers](https://github.com/dangermammoth/DSA-/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dangermammoth/DSA-/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/dangermammoth/DSA-/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/dangermammoth/DSA-/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/dangermammoth/DSA-/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/dangermammoth/DSA-/tree/master/3536-maximum-product-of-two-digits) |
@@ -190,6 +191,7 @@ dsa and leetcode problems
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/dangermammoth/DSA-/tree/master/1291-sequential-digits) |
+| [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/dangermammoth/DSA-/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/dangermammoth/DSA-/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/dangermammoth/DSA-/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Tree
