@@ -17,6 +17,7 @@ dsa and leetcode problems
 | [1260-shift-2d-grid](https://github.com/dangermammoth/DSA-/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/dangermammoth/DSA-/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/dangermammoth/DSA-/tree/master/1331-rank-transform-of-an-array) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/dangermammoth/DSA-/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/dangermammoth/DSA-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dangermammoth/DSA-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/dangermammoth/DSA-/tree/master/2344-minimum-deletions-to-make-array-divisible) |
@@ -90,6 +91,7 @@ dsa and leetcode problems
 | [1227-airplane-seat-assignment-probability](https://github.com/dangermammoth/DSA-/tree/master/1227-airplane-seat-assignment-probability) |
 | [1250-check-if-it-is-a-good-array](https://github.com/dangermammoth/DSA-/tree/master/1250-check-if-it-is-a-good-array) |
 | [1492-the-kth-factor-of-n](https://github.com/dangermammoth/DSA-/tree/master/1492-the-kth-factor-of-n) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/dangermammoth/DSA-/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1922-count-good-numbers](https://github.com/dangermammoth/DSA-/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dangermammoth/DSA-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/dangermammoth/DSA-/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
@@ -112,6 +114,7 @@ dsa and leetcode problems
 |  |
 | ------- |
 | [0461-hamming-distance](https://github.com/dangermammoth/DSA-/tree/master/0461-hamming-distance) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/dangermammoth/DSA-/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## String
 |  |
 | ------- |
@@ -191,6 +194,7 @@ dsa and leetcode problems
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/dangermammoth/DSA-/tree/master/1291-sequential-digits) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/dangermammoth/DSA-/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/dangermammoth/DSA-/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/dangermammoth/DSA-/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/dangermammoth/DSA-/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
@@ -242,4 +246,12 @@ dsa and leetcode problems
 |  |
 | ------- |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/dangermammoth/DSA-/tree/master/2344-minimum-deletions-to-make-array-divisible) |
+## Backtracking
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/dangermammoth/DSA-/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/dangermammoth/DSA-/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
