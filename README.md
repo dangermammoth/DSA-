@@ -85,6 +85,7 @@ dsa and leetcode problems
 | [0633-sum-of-square-numbers](https://github.com/dangermammoth/DSA-/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/dangermammoth/DSA-/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/dangermammoth/DSA-/tree/master/1025-divisor-game) |
+| [1227-airplane-seat-assignment-probability](https://github.com/dangermammoth/DSA-/tree/master/1227-airplane-seat-assignment-probability) |
 | [1250-check-if-it-is-a-good-array](https://github.com/dangermammoth/DSA-/tree/master/1250-check-if-it-is-a-good-array) |
 | [1492-the-kth-factor-of-n](https://github.com/dangermammoth/DSA-/tree/master/1492-the-kth-factor-of-n) |
 | [1922-count-good-numbers](https://github.com/dangermammoth/DSA-/tree/master/1922-count-good-numbers) |
@@ -134,11 +135,13 @@ dsa and leetcode problems
 | ------- |
 | [0877-stone-game](https://github.com/dangermammoth/DSA-/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/dangermammoth/DSA-/tree/master/1025-divisor-game) |
+| [1227-airplane-seat-assignment-probability](https://github.com/dangermammoth/DSA-/tree/master/1227-airplane-seat-assignment-probability) |
 ## Brainteaser
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/dangermammoth/DSA-/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/dangermammoth/DSA-/tree/master/1025-divisor-game) |
+| [1227-airplane-seat-assignment-probability](https://github.com/dangermammoth/DSA-/tree/master/1227-airplane-seat-assignment-probability) |
 ## Game Theory
 |  |
 | ------- |
@@ -216,4 +219,8 @@ dsa and leetcode problems
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/dangermammoth/DSA-/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Probability and Statistics
+|  |
+| ------- |
+| [1227-airplane-seat-assignment-probability](https://github.com/dangermammoth/DSA-/tree/master/1227-airplane-seat-assignment-probability) |
 <!---LeetCode Topics End-->
