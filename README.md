@@ -22,6 +22,7 @@ dsa and leetcode problems
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dangermammoth/DSA-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/dangermammoth/DSA-/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/dangermammoth/DSA-/tree/master/2344-minimum-deletions-to-make-array-divisible) |
+| [3179-find-the-n-th-value-after-k-seconds](https://github.com/dangermammoth/DSA-/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3731-find-missing-elements](https://github.com/dangermammoth/DSA-/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/dangermammoth/DSA-/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/dangermammoth/DSA-/tree/master/3759-count-elements-with-at-least-k-greater-values) |
@@ -81,6 +82,7 @@ dsa and leetcode problems
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/dangermammoth/DSA-/tree/master/0713-subarray-product-less-than-k) |
+| [3179-find-the-n-th-value-after-k-seconds](https://github.com/dangermammoth/DSA-/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/dangermammoth/DSA-/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Math
 |  |
@@ -102,6 +104,7 @@ dsa and leetcode problems
 | [2221-find-triangular-sum-of-an-array](https://github.com/dangermammoth/DSA-/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/dangermammoth/DSA-/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/dangermammoth/DSA-/tree/master/2344-minimum-deletions-to-make-array-divisible) |
+| [3179-find-the-n-th-value-after-k-seconds](https://github.com/dangermammoth/DSA-/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/dangermammoth/DSA-/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/dangermammoth/DSA-/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/dangermammoth/DSA-/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -243,6 +246,7 @@ dsa and leetcode problems
 | [1260-shift-2d-grid](https://github.com/dangermammoth/DSA-/tree/master/1260-shift-2d-grid) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/dangermammoth/DSA-/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2390-removing-stars-from-a-string](https://github.com/dangermammoth/DSA-/tree/master/2390-removing-stars-from-a-string) |
+| [3179-find-the-n-th-value-after-k-seconds](https://github.com/dangermammoth/DSA-/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/dangermammoth/DSA-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
 |  |
@@ -278,6 +282,7 @@ dsa and leetcode problems
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/dangermammoth/DSA-/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/dangermammoth/DSA-/tree/master/2221-find-triangular-sum-of-an-array) |
+| [3179-find-the-n-th-value-after-k-seconds](https://github.com/dangermammoth/DSA-/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 ## Binary Search Tree
 |  |
 | ------- |
