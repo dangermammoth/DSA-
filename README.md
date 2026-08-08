@@ -11,6 +11,7 @@ dsa and leetcode problems
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/dangermammoth/DSA-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dangermammoth/DSA-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/dangermammoth/DSA-/tree/master/0713-subarray-product-less-than-k) |
+| [0817-linked-list-components](https://github.com/dangermammoth/DSA-/tree/master/0817-linked-list-components) |
 | [0877-stone-game](https://github.com/dangermammoth/DSA-/tree/master/0877-stone-game) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/dangermammoth/DSA-/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1250-check-if-it-is-a-good-array](https://github.com/dangermammoth/DSA-/tree/master/1250-check-if-it-is-a-good-array) |
@@ -61,6 +62,7 @@ dsa and leetcode problems
 ## Hash Table
 |  |
 | ------- |
+| [0817-linked-list-components](https://github.com/dangermammoth/DSA-/tree/master/0817-linked-list-components) |
 | [1331-rank-transform-of-an-array](https://github.com/dangermammoth/DSA-/tree/master/1331-rank-transform-of-an-array) |
 | [3731-find-missing-elements](https://github.com/dangermammoth/DSA-/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/dangermammoth/DSA-/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -119,6 +121,7 @@ dsa and leetcode problems
 |  |
 | ------- |
 | [0328-odd-even-linked-list](https://github.com/dangermammoth/DSA-/tree/master/0328-odd-even-linked-list) |
+| [0817-linked-list-components](https://github.com/dangermammoth/DSA-/tree/master/0817-linked-list-components) |
 ## Bit Manipulation
 |  |
 | ------- |
