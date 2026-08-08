@@ -23,6 +23,7 @@ dsa and leetcode problems
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/dangermammoth/DSA-/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [3731-find-missing-elements](https://github.com/dangermammoth/DSA-/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/dangermammoth/DSA-/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/dangermammoth/DSA-/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/dangermammoth/DSA-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
@@ -46,6 +47,7 @@ dsa and leetcode problems
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/dangermammoth/DSA-/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/dangermammoth/DSA-/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/dangermammoth/DSA-/tree/master/3731-find-missing-elements) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/dangermammoth/DSA-/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/dangermammoth/DSA-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/dangermammoth/DSA-/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Counting
@@ -65,6 +67,7 @@ dsa and leetcode problems
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/dangermammoth/DSA-/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/dangermammoth/DSA-/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Segment Tree
 |  |
 | ------- |
@@ -126,6 +129,7 @@ dsa and leetcode problems
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/dangermammoth/DSA-/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/dangermammoth/DSA-/tree/master/0713-subarray-product-less-than-k) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/dangermammoth/DSA-/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Sliding Window
 |  |
 | ------- |
@@ -282,4 +286,8 @@ dsa and leetcode problems
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/dangermammoth/DSA-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Quickselect
+|  |
+| ------- |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/dangermammoth/DSA-/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 <!---LeetCode Topics End-->
