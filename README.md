@@ -82,6 +82,7 @@ dsa and leetcode problems
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/dangermammoth/DSA-/tree/master/0060-permutation-sequence) |
+| [0096-unique-binary-search-trees](https://github.com/dangermammoth/DSA-/tree/master/0096-unique-binary-search-trees) |
 | [0292-nim-game](https://github.com/dangermammoth/DSA-/tree/master/0292-nim-game) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/dangermammoth/DSA-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dangermammoth/DSA-/tree/master/0628-maximum-product-of-three-numbers) |
@@ -141,6 +142,7 @@ dsa and leetcode problems
 ## Dynamic Programming
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/dangermammoth/DSA-/tree/master/0096-unique-binary-search-trees) |
 | [0877-stone-game](https://github.com/dangermammoth/DSA-/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/dangermammoth/DSA-/tree/master/1025-divisor-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/dangermammoth/DSA-/tree/master/1227-airplane-seat-assignment-probability) |
@@ -202,6 +204,7 @@ dsa and leetcode problems
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/dangermammoth/DSA-/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/dangermammoth/DSA-/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/dangermammoth/DSA-/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/dangermammoth/DSA-/tree/master/0112-path-sum) |
@@ -213,6 +216,7 @@ dsa and leetcode problems
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/dangermammoth/DSA-/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/dangermammoth/DSA-/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/dangermammoth/DSA-/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/dangermammoth/DSA-/tree/master/0112-path-sum) |
@@ -260,5 +264,6 @@ dsa and leetcode problems
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/dangermammoth/DSA-/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/dangermammoth/DSA-/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
