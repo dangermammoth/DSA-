@@ -164,6 +164,7 @@ dsa and leetcode problems
 | [0098-validate-binary-search-tree](https://github.com/dangermammoth/DSA-/tree/master/0098-validate-binary-search-tree) |
 | [0112-path-sum](https://github.com/dangermammoth/DSA-/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/dangermammoth/DSA-/tree/master/0200-number-of-islands) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/dangermammoth/DSA-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/dangermammoth/DSA-/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/dangermammoth/DSA-/tree/master/0547-number-of-provinces) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/dangermammoth/DSA-/tree/master/0559-maximum-depth-of-n-ary-tree) |
@@ -208,6 +209,7 @@ dsa and leetcode problems
 | [0098-validate-binary-search-tree](https://github.com/dangermammoth/DSA-/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/dangermammoth/DSA-/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/dangermammoth/DSA-/tree/master/0112-path-sum) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/dangermammoth/DSA-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/dangermammoth/DSA-/tree/master/0404-sum-of-left-leaves) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/dangermammoth/DSA-/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/dangermammoth/DSA-/tree/master/0559-maximum-depth-of-n-ary-tree) |
@@ -220,6 +222,7 @@ dsa and leetcode problems
 | [0098-validate-binary-search-tree](https://github.com/dangermammoth/DSA-/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/dangermammoth/DSA-/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/dangermammoth/DSA-/tree/master/0112-path-sum) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/dangermammoth/DSA-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/dangermammoth/DSA-/tree/master/0404-sum-of-left-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/dangermammoth/DSA-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1609-even-odd-tree](https://github.com/dangermammoth/DSA-/tree/master/1609-even-odd-tree) |
@@ -266,4 +269,13 @@ dsa and leetcode problems
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/dangermammoth/DSA-/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/dangermammoth/DSA-/tree/master/0098-validate-binary-search-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/dangermammoth/DSA-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Binary Lifting
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/dangermammoth/DSA-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/dangermammoth/DSA-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
