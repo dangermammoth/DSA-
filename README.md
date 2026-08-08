@@ -159,6 +159,7 @@ dsa and leetcode problems
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/dangermammoth/DSA-/tree/master/0098-validate-binary-search-tree) |
 | [0112-path-sum](https://github.com/dangermammoth/DSA-/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/dangermammoth/DSA-/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/dangermammoth/DSA-/tree/master/0404-sum-of-left-leaves) |
@@ -201,6 +202,7 @@ dsa and leetcode problems
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/dangermammoth/DSA-/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/dangermammoth/DSA-/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/dangermammoth/DSA-/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/dangermammoth/DSA-/tree/master/0404-sum-of-left-leaves) |
@@ -211,6 +213,7 @@ dsa and leetcode problems
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/dangermammoth/DSA-/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/dangermammoth/DSA-/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/dangermammoth/DSA-/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/dangermammoth/DSA-/tree/master/0404-sum-of-left-leaves) |
@@ -254,4 +257,8 @@ dsa and leetcode problems
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/dangermammoth/DSA-/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/dangermammoth/DSA-/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
