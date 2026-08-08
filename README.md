@@ -22,6 +22,7 @@ dsa and leetcode problems
 | [1863-sum-of-all-subset-xor-totals](https://github.com/dangermammoth/DSA-/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/dangermammoth/DSA-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dangermammoth/DSA-/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/dangermammoth/DSA-/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/dangermammoth/DSA-/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/dangermammoth/DSA-/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/dangermammoth/DSA-/tree/master/3179-find-the-n-th-value-after-k-seconds) |
@@ -60,6 +61,7 @@ dsa and leetcode problems
 |  |
 | ------- |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/dangermammoth/DSA-/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/dangermammoth/DSA-/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/dangermammoth/DSA-/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/dangermammoth/DSA-/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Hash Table
@@ -68,6 +70,7 @@ dsa and leetcode problems
 | [0817-linked-list-components](https://github.com/dangermammoth/DSA-/tree/master/0817-linked-list-components) |
 | [1331-rank-transform-of-an-array](https://github.com/dangermammoth/DSA-/tree/master/1331-rank-transform-of-an-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/dangermammoth/DSA-/tree/master/1338-reduce-array-size-to-the-half) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/dangermammoth/DSA-/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [3731-find-missing-elements](https://github.com/dangermammoth/DSA-/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/dangermammoth/DSA-/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/dangermammoth/DSA-/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
