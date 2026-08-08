@@ -18,6 +18,7 @@ dsa and leetcode problems
 | [1260-shift-2d-grid](https://github.com/dangermammoth/DSA-/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/dangermammoth/DSA-/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/dangermammoth/DSA-/tree/master/1331-rank-transform-of-an-array) |
+| [1338-reduce-array-size-to-the-half](https://github.com/dangermammoth/DSA-/tree/master/1338-reduce-array-size-to-the-half) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/dangermammoth/DSA-/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/dangermammoth/DSA-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dangermammoth/DSA-/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -39,6 +40,7 @@ dsa and leetcode problems
 | ------- |
 | [0011-container-with-most-water](https://github.com/dangermammoth/DSA-/tree/master/0011-container-with-most-water) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/dangermammoth/DSA-/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [1338-reduce-array-size-to-the-half](https://github.com/dangermammoth/DSA-/tree/master/1338-reduce-array-size-to-the-half) |
 ## Sorting
 |  |
 | ------- |
@@ -46,6 +48,7 @@ dsa and leetcode problems
 | [0945-minimum-increment-to-make-array-unique](https://github.com/dangermammoth/DSA-/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1288-remove-covered-intervals](https://github.com/dangermammoth/DSA-/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/dangermammoth/DSA-/tree/master/1331-rank-transform-of-an-array) |
+| [1338-reduce-array-size-to-the-half](https://github.com/dangermammoth/DSA-/tree/master/1338-reduce-array-size-to-the-half) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/dangermammoth/DSA-/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/dangermammoth/DSA-/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/dangermammoth/DSA-/tree/master/3536-maximum-product-of-two-digits) |
@@ -64,6 +67,7 @@ dsa and leetcode problems
 | ------- |
 | [0817-linked-list-components](https://github.com/dangermammoth/DSA-/tree/master/0817-linked-list-components) |
 | [1331-rank-transform-of-an-array](https://github.com/dangermammoth/DSA-/tree/master/1331-rank-transform-of-an-array) |
+| [1338-reduce-array-size-to-the-half](https://github.com/dangermammoth/DSA-/tree/master/1338-reduce-array-size-to-the-half) |
 | [3731-find-missing-elements](https://github.com/dangermammoth/DSA-/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/dangermammoth/DSA-/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/dangermammoth/DSA-/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
@@ -267,6 +271,7 @@ dsa and leetcode problems
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1338-reduce-array-size-to-the-half](https://github.com/dangermammoth/DSA-/tree/master/1338-reduce-array-size-to-the-half) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/dangermammoth/DSA-/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 ## Euclidean Algorithm
 |  |
