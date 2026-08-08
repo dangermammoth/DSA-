@@ -123,6 +123,7 @@ dsa and leetcode problems
 |  |
 | ------- |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/dangermammoth/DSA-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2390-removing-stars-from-a-string](https://github.com/dangermammoth/DSA-/tree/master/2390-removing-stars-from-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/dangermammoth/DSA-/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Binary Search
 |  |
@@ -237,6 +238,7 @@ dsa and leetcode problems
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/dangermammoth/DSA-/tree/master/1260-shift-2d-grid) |
+| [2390-removing-stars-from-a-string](https://github.com/dangermammoth/DSA-/tree/master/2390-removing-stars-from-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/dangermammoth/DSA-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
 |  |
@@ -290,4 +292,8 @@ dsa and leetcode problems
 |  |
 | ------- |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/dangermammoth/DSA-/tree/master/3759-count-elements-with-at-least-k-greater-values) |
+## Stack
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/dangermammoth/DSA-/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
